@@ -25,7 +25,7 @@ SECRET_KEY = 'ajxs*q_sm&(8v%9$m!@6sj2)-fo1czr-zcz4gg4ssiuzoq7f=_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['jarius.pythonanywhere.com',]
 
 
 # Application definition
